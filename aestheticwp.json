@@ -1,0 +1,609 @@
+{
+    "Ads": [
+        {
+            "select_ads": "ADMOB",
+            "status_app": "0",
+            "link_redirect": "https://",
+            "admob_interid": "ca-app-pub-8766274132950517/5240340894",
+            "admob_nativeid": "ca-app-pub-8766274132950517/1999934038",
+            "admob_openid": "ca-app-pub-8766274132950517/6238561947",
+            "interval_intertitial": "5",
+            "startappid": "201669628",
+            "fan_inter": "612492376332507_612493222999089",
+            "fan_banner_native": "612492376332507_612492762999135",
+            "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+            "mopub_inter": "24534e1901884e398f1253216226017e",
+            "unityID": "3896203",
+            "unity_inter": "video",
+            "unity_banner": "bannerid",
+            "packagename": "com.terimakasih.aestheticwallpaper"
+        }
+    ],
+    "More": [
+        {
+            "id": 1,
+            "title": "Sort the Animals",
+            "image": "https://i.ytimg.com/vi/3i0Bvtwg2bM/maxresdefault.jpg",
+            "link": "https://play.google.com/store/apps/details?id=com.mokostudio.animalsortpuzzlegame&hl=en"
+        },
+        {
+            "id": 1,
+            "title": "4K Nature Wallpaper",
+            "image": "https://raw.githubusercontent.com/LeleLab/lelelab.github.io/master/featureart%20nature.jpg",
+            "link": "https://play.google.com/store/apps/details?id=com.terimakasih.wallpaperbagus&hl=en"
+        }
+    ],
+    "Categories": [
+        {
+            "id": 1,
+            "name_category": "Aesthetic",
+            "image": "https://images.unsplash.com/photo-1612534335151-1b6d8c588003?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+        }
+    ],
+    "Data":[
+        {
+          "id": 1,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/001.jpg"
+        },
+        {
+          "id": 2,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/002.jpg"
+        },
+        {
+          "id": 3,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/003.jpg"
+        },
+        {
+          "id": 4,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/004.jpg"
+        },
+        {
+          "id": 5,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/005.jpg"
+        },
+        {
+          "id": 6,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/006.jpg"
+        },
+        {
+          "id": 7,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/007.jpg"
+        },
+        {
+          "id": 8,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/008.jpg"
+        },
+        {
+          "id": 9,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/009.jpg"
+        },
+        {
+          "id": 10,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/010.jpg"
+        },
+        {
+          "id": 11,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/011.jpg"
+        },
+        {
+          "id": 12,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/012.jpg"
+        },
+        {
+          "id": 13,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/013.jpg"
+        },
+        {
+          "id": 14,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/014.jpg"
+        },
+        {
+          "id": 15,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/015.jpg"
+        },
+        {
+          "id": 16,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/016.jpg"
+        },
+        {
+          "id": 17,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/017.jpg"
+        },
+        {
+          "id": 18,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/018.jpg"
+        },
+        {
+          "id": 19,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/019.jpg"
+        },
+        {
+          "id": 20,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/020.jpg"
+        },
+        {
+          "id": 21,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/021.jpg"
+        },
+        {
+          "id": 22,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/022.jpg"
+        },
+        {
+          "id": 23,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/023.jpg"
+        },
+        {
+          "id": 24,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/024.jpg"
+        },
+        {
+          "id": 25,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/025.jpg"
+        },
+        {
+          "id": 26,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/026.jpg"
+        },
+        {
+          "id": 27,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/027.jpg"
+        },
+        {
+          "id": 28,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/028.jpg"
+        },
+        {
+          "id": 29,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/029.jpg"
+        },
+        {
+          "id": 30,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/030.jpg"
+        },
+        {
+          "id": 31,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/031.jpg"
+        },
+        {
+          "id": 32,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/032.jpg"
+        },
+        {
+          "id": 33,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/033.jpg"
+        },
+        {
+          "id": 34,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/034.jpg"
+        },
+        {
+          "id": 35,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/035.jpg"
+        },
+        {
+          "id": 36,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/036.jpg"
+        },
+        {
+          "id": 37,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/037.jpg"
+        },
+        {
+          "id": 38,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/038.jpg"
+        },
+        {
+          "id": 39,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/039.jpg"
+        },
+        {
+          "id": 40,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/040.jpg"
+        },
+        {
+          "id": 41,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/041.jpg"
+        },
+        {
+          "id": 42,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/042.jpg"
+        },
+        {
+          "id": 43,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/043.jpg"
+        },
+        {
+          "id": 44,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/044.jpg"
+        },
+        {
+          "id": 45,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/045.jpg"
+        },
+        {
+          "id": 46,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/046.jpg"
+        },
+        {
+          "id": 47,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/047.jpg"
+        },
+        {
+          "id": 48,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/048.jpg"
+        },
+        {
+          "id": 49,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/049.jpg"
+        },
+        {
+          "id": 50,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/050.jpg"
+        },
+        {
+          "id": 51,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/051.jpg"
+        },
+        {
+          "id": 52,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/052.jpg"
+        },
+        {
+          "id": 53,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/053.jpg"
+        },
+        {
+          "id": 54,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/054.jpg"
+        },
+        {
+          "id": 55,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/055.jpg"
+        },
+        {
+          "id": 56,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/056.jpg"
+        },
+        {
+          "id": 57,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/057.jpg"
+        },
+        {
+          "id": 58,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/058.jpg"
+        },
+        {
+          "id": 59,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/059.jpg"
+        },
+        {
+          "id": 60,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/060.jpg"
+        },
+        {
+          "id": 61,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/061.jpg"
+        },
+        {
+          "id": 62,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/062.jpg"
+        },
+        {
+          "id": 63,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/063.jpg"
+        },
+        {
+          "id": 64,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/064.jpg"
+        },
+        {
+          "id": 65,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/065.jpg"
+        },
+        {
+          "id": 66,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/066.jpg"
+        },
+        {
+          "id": 67,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/067.jpg"
+        },
+        {
+          "id": 68,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/068.jpg"
+        },
+        {
+          "id": 69,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/069.jpg"
+        },
+        {
+          "id": 70,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/070.jpg"
+        },
+        {
+          "id": 71,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/071.jpg"
+        },
+        {
+          "id": 72,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/072.jpg"
+        },
+        {
+          "id": 73,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/073.jpg"
+        },
+        {
+          "id": 74,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/074.jpg"
+        },
+        {
+          "id": 75,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/075.jpg"
+        },
+        {
+          "id": 76,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/076.jpg"
+        },
+        {
+          "id": 77,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/077.jpg"
+        },
+        {
+          "id": 78,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/078.jpg"
+        },
+        {
+          "id": 79,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/079.jpg"
+        },
+        {
+          "id": 80,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/080.jpg"
+        },
+        {
+          "id": 81,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/081.jpg"
+        },
+        {
+          "id": 82,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/082.jpg"
+        },
+        {
+          "id": 83,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/083.jpg"
+        },
+        {
+          "id": 84,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/084.jpg"
+        },
+        {
+          "id": 85,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/085.jpg"
+        },
+        {
+          "id": 86,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/086.jpg"
+        },
+        {
+          "id": 87,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/087.jpg"
+        },
+        {
+          "id": 88,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/088.jpg"
+        },
+        {
+          "id": 89,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/089.jpg"
+        },
+        {
+          "id": 90,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/090.jpg"
+        },
+        {
+          "id": 91,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/091.jpg"
+        },
+        {
+          "id": 92,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/092.jpg"
+        },
+        {
+          "id": 93,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/093.jpg"
+        },
+        {
+          "id": 94,
+          "name_category": "Aesthetic",
+          "title": "Aesthetic",
+          "image": "file:///android_asset/image/094.jpg"
+        }
+      ]
+}
